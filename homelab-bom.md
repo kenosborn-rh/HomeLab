@@ -1,7 +1,7 @@
 ## HomeLab Bill of Materials
 
 # Network
-1x [Mikrotik CCR2004-16G-2S+PC Ethernet Router ](https://www.amazon.com/dp/B0B1NBXT9G?ref=ppx_yo2ov_dt_b_fed_asin_title)</br>
+1x [Mikrotik CCR2004-16G-2S+PC Ethernet Router ](https://www.amazon.com/dp/B0B1NBXT9G?ref=ppx_yo2ov_dt_b_fed_asin_title){:target="_blank"}</br>
 1x [Mikrotik CRS309-1G-8S+in Switch](https://www.amazon.com/dp/B08437JN8R?ref=ppx_yo2ov_dt_b_fed_asin_title)</br>
 6x [10G SFP+ DAC Twinax Cable](https://www.amazon.com/dp/B01LSGGUOY?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)</br>
 2x [Cat 8 Ethernet Cable](https://www.amazon.com/dp/B08PKYN463?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)</br>

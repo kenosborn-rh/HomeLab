@@ -5,7 +5,7 @@
 1x [Mikrotik CRS309-1G-8S+in Switch](https://www.amazon.com/dp/B08437JN8R?ref=ppx_yo2ov_dt_b_fed_asin_title)</br>
 6x [10G SFP+ DAC Twinax Cable](https://www.amazon.com/dp/B01LSGGUOY?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)</br>
 2x [Cat 8 Ethernet Cable](https://www.amazon.com/dp/B08PKYN463?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)</br>
-1x [[Blue] Colored 10G SFP+ DAC Cable](https://www.amazon.com/dp/B01KM0SA7C?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+1x [[Blue] Colored 10G SFP+ DAC Cable](https://www.amazon.com/dp/B01KM0SA7C?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)</br>
 1x [MikroTik S+RJ10](https://www.amazon.com/dp/B01LSGGUOY?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
 
 # Mini Servers
